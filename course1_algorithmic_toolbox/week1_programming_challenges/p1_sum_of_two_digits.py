@@ -1,5 +1,6 @@
-# python3 (this comment tells the grading system at Coursera to use python3 rather than python3)
+# python3 (this comment tells the grading system at Coursera to use python3 rather than python2)
 
+# Compute the sum of two single digit numbers.
 
 # O(1)
 def sum_of_two_digits(first_digit, second_digit):

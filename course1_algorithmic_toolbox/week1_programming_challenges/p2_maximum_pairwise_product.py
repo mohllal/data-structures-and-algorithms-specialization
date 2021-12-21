@@ -1,7 +1,8 @@
-# python3
+# python3 (this comment tells the grading system at Coursera to use python3 rather than python2)
 
+# Find the maximum product of two distinct numbers in a sequence of non-negative integers.
 
-# O(N^2)
+# O(n^2)
 def max_pairwise_product_naive(numbers):
     assert len(numbers) >= 2
     assert all(0 <= x <= 2 * 10 ** 5 for x in numbers)
@@ -15,7 +16,7 @@ def max_pairwise_product_naive(numbers):
     return product
 
 
-# O(N)
+# O(n)
 def max_pairwise_product(numbers):
     assert len(numbers) >= 2
     assert all(0 <= x <= 2 * 10 ** 5 for x in numbers)
