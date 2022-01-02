@@ -12,6 +12,9 @@ This [course](https://www.coursera.org/learn/data-structures?specialization=data
     5. [Maximum in Sliding Window](./week1_basic_data_structures/p5_max_sliding_window.py).
 2. Dynamic Arrays and Amortized Analysis
 3. Priority Queues and Disjoint Sets
+    1. [CConvert Array into Heap](./week3_priority_queues_and_disjoint_sets/p1_make_heap.py).
+    2. [Parallel Processing](./week3_priority_queues_and_disjoint_sets/p2_job_queue.py).
+    3. [Merging Tables](./week3_priority_queues_and_disjoint_sets/p3_merging_tables.py).
 4. Hash Tables
 5. Binary Search Trees 1
 6. Binary Search Trees 2
